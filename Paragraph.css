@@ -1,0 +1,22 @@
+.box_par {
+	display: flex;
+}
+
+.red, .green, .blue{
+	height: 200px;
+	width: 200px;
+	margin-left: 20px;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+
+.blue {
+	background-color: blue;
+}
